@@ -1,0 +1,7 @@
+ipython
+langchain
+langchain_experimental
+langchain_openai
+langgraph
+matplotlib
+python-dotenv
