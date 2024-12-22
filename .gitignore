@@ -2,5 +2,6 @@
 models/
 .vscode/
 
+.credentials
 .env
 .venv
