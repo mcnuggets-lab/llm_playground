@@ -5,3 +5,5 @@ models/
 .credentials
 .env
 .venv
+
+*_faiss_index

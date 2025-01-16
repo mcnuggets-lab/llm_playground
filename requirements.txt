@@ -1,7 +1,10 @@
+faiss-cpu
 ipython
 langchain
+langchain_community
 langchain_experimental
 langchain_openai
 langgraph
 matplotlib
+pandas>=2.0.0
 python-dotenv
