@@ -7,3 +7,4 @@ models/
 .venv
 
 *_faiss_index
+llama.log
